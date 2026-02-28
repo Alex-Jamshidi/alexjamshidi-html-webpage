@@ -1,0 +1,23 @@
+table {
+  border: 5px ridge black;
+  margin: 20px;
+  padding: 5px;
+}
+
+.red {
+  color: red;
+}
+
+#centred-img {
+  display: block; margin: auto;
+}
+
+#div1 {
+  background-color: red;
+}
+
+span {
+  color: blue;
+  font-size: 20px;
+  font-family: "Helvetica", sans-serif;
+}
